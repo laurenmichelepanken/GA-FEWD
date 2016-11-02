@@ -1,0 +1,48 @@
+ .grey {
+ 	background-color: grey;
+ 	width: 750 px;
+ 	height: 1750px;
+ 	padding top: 10px; 
+ 	border: 500px;
+ }
+
+ .black{
+ 	background-color: black;
+ 	border:500px ;
+	padding-left:  100px;
+	padding-right: 100px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	margin-right: 50px; 
+	width: 1000px;
+	height: 50px;
+ }
+
+.white{ 
+	color: white;
+	font-size: 10
+	margin-left: 50px;
+	margin-right: 50px; 
+	text-align: center;
+}
+
+.orange{ 
+	background-color: orange; 
+	border:500px ;
+	padding-left:  100px;
+	padding-right: 100px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	margin-right: 50px; 
+	width: 1000px;
+	height: 100px;
+	 }
+
+
+.blue{ 
+	color: white;
+	font-size: 10
+	margin-left: 50px;
+	margin-right: 50px; 
+	text-align: center;
+}
