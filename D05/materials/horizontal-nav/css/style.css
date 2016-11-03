@@ -2,3 +2,17 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 }
+
+.black-box{
+	background-color: black;
+	width: 300px;
+	height: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+a{ 
+	color: white;
+	font-size: 14px;
+
+}
