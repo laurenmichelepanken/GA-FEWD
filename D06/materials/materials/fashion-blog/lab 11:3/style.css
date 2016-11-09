@@ -1,0 +1,47 @@
+h1 {
+	color: red;
+	font-family: "arial";
+}
+
+h2{
+	color: grey;
+	font-family: "courier";
+	font-size: 15px
+}
+
+h3 {
+	font-family: "georgia"
+}
+
+div {
+	color: black;
+}
+
+.nav {
+	color: grey;
+	text-decoration: "none";
+}
+
+.continue { 
+	color: red; 
+	text-align: right;
+}
+
+img {
+	width: 100%; 
+	border: 1px solid black; 
+}
+
+.paragraph2 {
+	height: 400px;
+	width: 800px;
+	padding bottom: 150px;
+
+}
+
+.paragraph1 {
+	height: 400px;
+	width: 800px;
+	padding bottom: 150px;
+
+}
