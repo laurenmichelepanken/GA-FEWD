@@ -1,0 +1,36 @@
+.box {
+  background-color: grey;
+  border: 1px solid black;
+  height: 100px;
+}
+
+.middle {
+  height: 400px;
+  width: 400px;
+}
+
+
+.nav {
+	color: white;
+	text-decoration: "none";
+	margin-left: 100px
+	font: "oswald";
+	
+	
+}
+
+img {
+	width: 50%; 
+	border: 1px solid black; 
+}
+
+.title { 
+	color: yellow;
+	font-family: bold;
+ }
+
+ h2{
+	color: white;
+	font-family: "courier";
+	font-size: 15px
+}
