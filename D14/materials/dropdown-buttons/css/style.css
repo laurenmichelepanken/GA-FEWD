@@ -29,6 +29,6 @@ display: table;
    background: #ccc;
 }
 
-h1 {
-	background-color: blue; 
+.nav-menu ul li:hover > ul {
+   display:inline-block;
 }
